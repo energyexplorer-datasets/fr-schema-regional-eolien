@@ -12,7 +12,9 @@ Trois jeux de données sont proposés :
 - **Les cartes originales des zones favorables**, que nous avons géoréférencé. Elles peuvent être utilisées dans un logiciel de traitement géospatial tel que [QGIS](https://www.qgis.org).
 - **À VENIR - Une couche raster unique des zones favorables**, harmonisée à partir des documents originaux (0=proscrit, 1=peu favorable, 2=favorable).
 
-Ces fichiers peuvent être téléchargés via Git, ou alors directement ici :
+Ces fichiers peuvent être téléchargés soit par Git, soit alors directement ici.
+
+**Liens de téléchargement :**
 
 - [pdf_originaux.zip](https://energyexplorer.s3.fr-par.scw.cloud/pdf_originaux.1f3b3146c192a01611da4c9f0a029895de30ae5f13684b48b59d5dffcd506061.zip) (228Mo)
 - [cartes_originales_georeferencees.zip](https://energyexplorer.s3.fr-par.scw.cloud/cartes_originales_georeferencees.5e77a129bdd72e0855ef5083ec80f385ff7675566971482d239662b097cc7fa8.zip) (288Mo)
